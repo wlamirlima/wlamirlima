@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header&text=Wlamir+Alves&fontSize=30&fontColor=f3f3f3&animation=twinkling&fontAlignY=35"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Meu+Nome+é+Wlamir+Alves;+Idade:+23+anos;+Sou+de+Juazeiro+do+Norte-CE,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo!+:%29;+Hello!,+My+Name+Is+Wlamir+Alves+;+Age:+23+Years;+I'm+From+Juazeiro+do+Norte-CE,+Brazil;+Graduating+Bachelor's+Degree+Computer+Science;+Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Meu+Nome+é+Wlamir+Alves;+Idade:+23+anos;+Sou+de+Juazeiro+do+Norte-CE,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo(a)!+:%29;+Hello!,+My+Name+Is+Wlamir+Alves+;+Age:+23+Years;+I'm+From+Juazeiro+do+Norte-CE,+Brazil;+Graduating+Bachelor's+Degree+Computer+Science;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WlamirAlves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Alves github stats" /> 
