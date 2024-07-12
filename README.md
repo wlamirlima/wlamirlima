@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-<h3 align="right">Framework:</h3>
+<h3 align="right">Data Base:</h3>
 
 
 
@@ -24,7 +24,8 @@
 
 
 
-<h3 align="center">Data Base:</h3>
+<h3 align="center">Framework and 
+Libraries:</h3>
 
 
 
