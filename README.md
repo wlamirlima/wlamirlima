@@ -8,24 +8,73 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
+<br>
+<br>
+<br>
+<br>
+<h3 align="right">Framework:</h3>
+
+
+
+
+
+
+
+
+
+
+
+<h3 align="center">Data Base:</h3>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h3 align="left">Programing Languages:</h3>
 
-</p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+&nbsp;&nbsp;<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp;
 
 &nbsp;&nbsp;<img width='35' height='35' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+&nbsp;&nbsp;<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />&nbsp;&nbsp;
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+&nbsp;&nbsp;<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+&nbsp;&nbsp;<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-</div> 
+&nbsp;&nbsp;<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamiralves" height="30" width="40" /></a>
+<a href="https://instagram.com/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamiralves" height="30" width="40" /></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
