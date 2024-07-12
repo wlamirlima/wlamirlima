@@ -12,7 +12,7 @@
 <br>
 <br>
 <br>
-<h3 align="left">Programing Languages:</h3>
+<h3 align="left">Languages:</h3>
 
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
