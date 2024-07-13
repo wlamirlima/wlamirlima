@@ -20,7 +20,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />&nbsp;&nbsp;
 </h3>
 
 <h3 align="left">Data Base:                                                                                                                                               <img width='40' height='40' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;&nbsp;
@@ -41,6 +40,7 @@
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />&nbsp;&nbsp;
 </h3>
 
 <h3 align="left">Cloud Computing:  
