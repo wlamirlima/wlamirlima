@@ -27,7 +27,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />&nbsp;&nbsp;
 
-
 <h3 align="left">Data Base:</h3>
 
 <img width='40' height='40' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;&nbsp;
@@ -36,13 +35,15 @@
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />&nbsp;&nbsp;
 
+<h3 align="left">Libraries:</h3>
+
+<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />&nbsp;&nbsp;
 
 
-
-
-
-<h3 align="left">Framework and 
-Libraries:</h3>
 
 
 
