@@ -10,11 +10,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
 <br>
 <br>
-<br>
-<br>
-<h3 align="left">Languages:</h3>
-
-<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp;
+<h3 align="left">Languages:                                                                                                                                               <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
@@ -25,34 +21,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />&nbsp;&nbsp;
+</h3>
 
-<h3 align="left">Data Base:</h3>
-
-<img width='40' height='40' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;&nbsp;
+<h3 align="left">Data Base:                                                                                                                                               <img width='40' height='40' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />&nbsp;&nbsp;
+</h3>
 
-<h3 align="left">Libraries:</h3>
-
-<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+<h3 align="left">Libraries:                                                                                                                                               <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />&nbsp;&nbsp;
-
-
-
-
-
-
-
-
-
-
-
-
+</h3>
 
 
 
