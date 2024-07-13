@@ -16,8 +16,8 @@
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />&nbsp;&nbsp;
 </h3>
@@ -37,15 +37,15 @@
 </h3>
 
 <h3 align="left">Framework And Tools:  
-<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" />&nbsp;&nbsp;
 <img width='40' height='40' src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" />&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />&nbsp;&nbsp;
 </h3>
 
 <h3 align="left">Cloud Computing:  
-<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp; 
 <img width="40" height="40" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" />&nbsp;&nbsp;
+<img width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;&nbsp; 
 </h3>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
