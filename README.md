@@ -30,6 +30,13 @@
 
 <h3 align="left">Data Base:</h3>
 
+<img width='40' height='40' src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />&nbsp;&nbsp;
+<img width='40' height='40' src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" />&nbsp;&nbsp;
+
+
 
 
 
