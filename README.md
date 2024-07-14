@@ -11,11 +11,11 @@
 <br>
 <br>
 
-<h1 align="center">Sobre mim:</h1>
+<h1 align="center">About me::</h1>
 <P>
-  Sou apaixonado por tecnologia, o que me motiva a manter uma mentalidade de aprendizado contínuo para desenvolver novas habilidades no campo da tecnologia da informação. Meu foco está no desenvolvimento e implementação de sistemas autônomos baseados em Inteligência Artificial (IA), Aprendizado de Máquina (ML) e Aprendizado Profundo (DL), buscando atender diversas necessidades da sociedade, como resolver desafios complexos, realizar tarefas, melhorar e automatizar processos .   
+  I am passionate about technology, which motivates me to maintain a continuous learning mindset to develop new skills in the field of information technology. My focus is on the development and implementation of autonomous systems based on Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), seeking to meet society's diverse needs, such as solving complex challenges, performing tasks, improving and automating processes .
 
-Desejo contribuir para o contínuo desenvolvimento de novos modelos e algoritmos avançados, impulsionando a inovação global. Através da coleta e análise de dados, otimizamos o desempenho dos modelos, permitindo que os sistemas aprendam e melhorem ao longo do tempo. Capacitando-os a tomar decisões e aprender de forma autônoma, garantindo um funcionamento cada vez mais eficiente e criando soluções inteligentes e escaláveis de alta qualidade .
+I want to contribute to the continuous development of new models and advanced algorithms, driving global innovation. Through data collection and analysis, we optimize model performance, allowing systems to learn and improve over time. Empowering them to make decisions and learn autonomously, ensuring increasingly efficient functioning and creating high-quality, intelligent and scalable solutions.
 </P>
 
 <br>
