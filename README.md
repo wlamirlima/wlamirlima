@@ -10,13 +10,14 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
 <br>
 <br>
+
 <h1 align="center">Sobre mim:</h1>
 <P>
   Sou apaixonado por tecnologia, o que me motiva a manter uma mentalidade de aprendizado contínuo para desenvolver novas habilidades no campo da tecnologia da informação. Meu foco está no desenvolvimento e implementação de sistemas autônomos baseados em Inteligência Artificial (IA), Aprendizado de Máquina (ML) e Aprendizado Profundo (DL), buscando atender diversas necessidades da sociedade, como resolver desafios complexos, realizar tarefas, melhorar e automatizar processos .   
 
 Desejo contribuir para o contínuo desenvolvimento de novos modelos e algoritmos avançados, impulsionando a inovação global. Através da coleta e análise de dados, otimizamos o desempenho dos modelos, permitindo que os sistemas aprendam e melhorem ao longo do tempo. Capacitando-os a tomar decisões e aprender de forma autônoma, garantindo um funcionamento cada vez mais eficiente e criando soluções inteligentes e escaláveis de alta qualidade .
 </P>
-<br
+
 <br>
 <br>
 <h3 align="left">Languages:                                                                                                                                               <img width='40' height='40' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />&nbsp;&nbsp;
