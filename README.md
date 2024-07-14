@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<h1 align="center">About me::</h1>
+<h1 align="center">About me:</h1>
 <P>
   I am passionate about technology, which motivates me to maintain a continuous learning mindset to develop new skills in the field of information technology. My focus is on the development and implementation of autonomous systems based on Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), seeking to meet society's diverse needs, such as solving complex challenges, performing tasks, improving and automating processes .
 
