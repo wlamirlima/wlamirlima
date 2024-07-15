@@ -13,9 +13,9 @@
 
 <h1 align="center">About me:</h1>
 <P>
-  I am passionate about technology, which motivates me to maintain a continuous learning mindset to develop new skills in the field of information technology. My focus is on the development and implementation of autonomous systems based on Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), seeking to meet society's diverse needs, such as solving complex challenges, performing tasks, improving and automating processes .
+  I am passionate about technology, which motivates me to maintain a continuous learning mindset to develop new skills in the field of information technology. My focus is on the development and implementation of autonomous systems based on Artificial Intelligence (AI), Machine Learning (ML) and Deep Learning (DL), seeking to meet society's diverse needs, such as solving complex challenges, performing tasks, improving and automating processes.
 
-I want to contribute to the continuous development of new models and advanced algorithms, driving global innovation. Through data collection and analysis, we optimize model performance, allowing systems to learn and improve over time. Empowering them to make decisions and learn autonomously, ensuring increasingly efficient functioning and creating high-quality, intelligent and scalable solutions .
+I want to contribute to the continuous development of new models and advanced algorithms, driving global innovation. Through data collection and analysis, we optimize model performance, allowing systems to learn and improve over time. Empowering them to make decisions and learn autonomously, ensuring increasingly efficient functioning and creating high-quality, intelligent and scalable solutions.
 </P>
 
 <br>
