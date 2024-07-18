@@ -40,21 +40,9 @@ I want to contribute to the continuous development of new models and advanced al
 | Git | Jupyter | GCP | AWS | Nodejs | .Net | Qt | 
 |----------|----------|----------|----------|----------|----------|----------|
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="Git" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="50" height="50"/>|<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GoogleCloud" alt="GoogleCloud" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs"  alt="Nodejs" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet"  alt="DotNet" width="50" height="50"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50"/>|
-<br>
-<br>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br> 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -62,6 +50,11 @@ I want to contribute to the continuous development of new models and advanced al
 <p align="center">
 <a href="https://linkedin.com/in/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamiralves" height="40" width="40" /></a>
 <a href="https://instagram.com/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamiralves" height="40" width="40" /></a>
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=wlamiralves&style=for-the-badge&color=8A2BE2" alt=""/>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
