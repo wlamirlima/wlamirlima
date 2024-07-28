@@ -2,6 +2,14 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Meu+Nome+é+Wlamir+Alves;+Sou+de+Juazeiro+do+Norte-CE,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo(a)!+:%29;+Hello!,+My+Name+Is+Wlamir+Alves+;+I'm+From+Juazeiro+do+Norte-CE,+Brazil;+Graduating+Bachelor's+Degree+Computer+Science;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<div align="center">
+  <!-- GitHub Stats Widget -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Alves GitHub stats">
+  
+  <!-- Top Languages Widget -->
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Alves top languages">
+
+</div>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
