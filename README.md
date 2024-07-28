@@ -2,18 +2,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Meu+Nome+é+Wlamir+Alves;+Sou+de+Juazeiro+do+Norte-CE,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo(a)!+:%29;+Hello!,+My+Name+Is+Wlamir+Alves+;+I'm+From+Juazeiro+do+Norte-CE,+Brazil;+Graduating+Bachelor's+Degree+Computer+Science;+Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
-  <!-- GitHub Stats Widget -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Alves GitHub stats">
-  
-  <!-- Top Languages Widget -->
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Alves top languages">
-
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
-<br>
 <br>
 
 <h1 align="center">About me:</h1>
@@ -46,11 +34,26 @@ I want to contribute to the continuous development of new models and advanced al
 |----------|----------|----------|----------|----------|----------|----------|
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"  alt="Git" width="50" height="50"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter"  alt="Jupyter" width="50" height="50"/>|<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" title="GoogleCloud" alt="GoogleCloud" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="Nodejs"  alt="Nodejs" width="50" height="50"/>|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" title="DotNet"  alt="DotNet" width="50" height="50"/>|<img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="50" height="50"/>|
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<br>
+<br>
+
+<div align="center">
+  <!-- GitHub Stats Widget -->
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Alves GitHub stats">
+  
+  <!-- Top Languages Widget -->
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Alves top languages">
+
+</div>
 
 <br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
+
 <br>
-<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="500px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamiralves" height="40" width="40" /></a>
