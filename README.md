@@ -39,16 +39,16 @@ I want to contribute to the continuous development of new models and advanced al
 
 <div align="center">
   <!-- GitHub Stats Widget -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Lima GitHub stats">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamirlima&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Lima GitHub stats">
   
   <!-- Top Languages Widget -->
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Lima top languages">
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamirlima&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Lima top languages">
 
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamirlima/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamirlima&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamirlima/github-readme-activity-graph)
 
 <br>
 
@@ -62,7 +62,7 @@ I want to contribute to the continuous development of new models and advanced al
 <br>
 <br>
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=wlamiralves&style=for-the-badge&color=8A2BE2" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=wlamirlima&style=for-the-badge&color=8A2BE2" alt=""/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
