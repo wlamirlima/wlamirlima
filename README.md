@@ -39,16 +39,16 @@ I want to contribute to the continuous development of new models and advanced al
 
 <div align="center">
   <!-- GitHub Stats Widget -->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Alves GitHub stats">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamiralves&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Lima GitHub stats">
   
   <!-- Top Languages Widget -->
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Alves top languages">
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamiralves&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Lima top languages">
 
 </div>
 
 <br>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamiralves/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wlamiralves&bg_color=0d1117&color=8A2BE2&line=f3f3f3&point=8A2BE2&area=true&hide_border=true)](https://github.com/wlamirlima/github-readme-activity-graph)
 
 <br>
 
@@ -56,8 +56,8 @@ I want to contribute to the continuous development of new models and advanced al
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamiralves" height="40" width="40" /></a>
-<a href="https://instagram.com/wlamiralves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamiralves" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/wlamirlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamirlima" height="40" width="40" /></a>
+<a href="https://instagram.com/wlamirlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamirlima" height="40" width="40" /></a>
 
 <br>
 <br>
@@ -68,7 +68,7 @@ I want to contribute to the continuous development of new models and advanced al
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlamiralves/wlamiralves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlamiralves/wlamiralves/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wlamiralves/wlamiralves/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wlamirlima/wlamirlima/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wlamirlima/wlamirlima/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wlamirlima/wlamirlima/output/github-contribution-grid-snake.svg">
 </picture>
