@@ -57,7 +57,7 @@ I want to contribute to the continuous development of new models and advanced al
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/wlamirlima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wlamirlima" height="40" width="40" /></a>
-<a href="https://instagram.com/wlamirlimaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamirlima" height="40" width="40" /></a>
+<a href="https://instagram.com/wlamirzera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wlamirlima" height="40" width="40" /></a>
 
 <br>
 <br>
