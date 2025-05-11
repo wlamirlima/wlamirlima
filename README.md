@@ -6,7 +6,13 @@
 
 <h1 align="center">About me:</h1>
 <P>
-  I'm passionate about innovation and technology, which makes me have a continuous learning mentality so that I'm always developing new skills in the field of information technology. 
+Hi, my name is Wlamir, I'm from Juazeiro do Norte - CE .
+
+I'm an Information Technology professional with solid experience in process automation (RPA), systems analysis and network operations. I have worked on the development and implementation of automated solutions using tools such as UiPath, resulting in workflow optimization and increased operational efficiency.
+
+My passion for technology and continuous learning drives me to constantly improve my technical skills.
+
+I believe that the combination of my hands-on experience with emerging technologies and my commitment to innovation positions me to contribute significantly to projects aimed not only at operational efficiency, but also at improving people's quality of life on a global scale.
 
 </P>
 <br>
