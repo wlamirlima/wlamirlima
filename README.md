@@ -6,7 +6,7 @@
 
 <h1 align="center">About me:</h1>
 <P>
-Hi, my name is Wlamir, I'm from Juazeiro do Norte - CE .
+Hi, my name is Wlamir, I'm from Ceará , 🇧🇷  .
 
 I'm an Information Technology professional with solid experience in process automation (RPA), systems analysis and network operations. I have worked on the development and implementation of automated solutions using tools such as UiPath, resulting in workflow optimization and increased operational efficiency.
 
