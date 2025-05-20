@@ -8,7 +8,7 @@
 <P>
 Hi, my name is Wlamir, I'm from Ceará , 🇧🇷  .
 
-I'm an IT professional, passionate about technology and innovation. With solid experience in process automation development (RPA), data science, systems and data analysis, network operations, I have combined professional practice with continuous training in the most promising areas of technology, such as Artificial Intelligence, Machine Learning and Data Engineering.
+Brazilian IT professional with a strong passion for technology and innovation. I bring solid experience in process automation (RPA), data science, systems and data analysis, and network operations. I continuously enhance my skills through hands-on projects and training in high-impact areas such as Artificial Intelligence, Machine Learning, and Data Engineering. Focused on creating smart, efficient, and scalable tech solutions .
 
 I have worked with robotic process automation using UiPath, optimizing operational flows and increasing productivity. I also develop solutions focused on AI, predictive analysis, data visualization and systems integration. My technical repertoire is strengthened by recognized courses such as Harvard's Computer Science training in Brazil (Fundação Estudar), as well as certifications from the Data Science Academy, Udemy, Microsoft and LinkedIn Learning.
 
