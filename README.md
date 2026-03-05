@@ -43,10 +43,10 @@ I believe that the combination of my practical experience with emerging technolo
 <br>
 
 <div align="center">
-  <!-- GitHub Stats Widget -->
+ 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=wlamirlima&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117" alt="Wlamir Lima GitHub stats">
+
   
-  <!-- Top Languages Widget -->
  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlamirlima&langs_count=10&layout=compact&hide_border=true&title_color=8A2BE2&text_color=f3f3f3&bg_color=0d1117&exclude_repo=repo1,repo2" alt="Wlamir Lima top languages">
 
 </div>
