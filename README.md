@@ -7,31 +7,29 @@
 <h1 align="center">About me:</h1>
 <P>
 
-Hi there, I'm Wlamir! From Ceará, Brazil 🇧🇷
-  
-I am a Computer Science student (100% ProUni Scholar) and an IT professional specialized in bridging the gap between critical IT Infrastructure (NetOps) and Artificial Intelligence.
+Hi there! My name is Wlamir. I'm from Juazeiro do Norte (CE), in the Cariri region of Ceará, Brazil 🇧🇷, and I'm a Computer Scientist.
 
-Driven by the challenge of automating complex workflows, I shifted my focus from traditional network management to Applied AI Engineering and MLOps. I don't just consume APIs; I build scalable solutions from the ground up, ensuring AI operates safely in corporate environments without "hallucinating."
+I received a full scholarship (100%) through the ProUni program. This achievement allowed me to pursue a bachelor's degree in Computer Science, driven by my vocation and desire to solve complex challenges through technology, contributing to innovation and efficiency in various areas.
 
-What I'm building and working with:
+Currently, I work in corporate Network Engineering. I design, provision, and manage highly critical infrastructure (BGP, OSPF, L2L/L3, MikroTik) throughout Brazil, enabling connectivity even in the most difficult-to-access locations.
 
-🧠 Applied GenAI: Building RAG (Retrieval-Augmented Generation) architectures using Python, LangChain, and local Vector Databases (ChromaDB).
+My career transition focus: AI Engineering and MLOps.
 
-⚙️ Hyperautomation & NetOps: Integrating LLMs (Gemini, OpenAI) to automate network troubleshooting and building robust RPA workflows using UiPath.
+I'm not just a consumer of ready-made tools; my focus is applied development. I have been building hybrid RAG (Retrieval-Augmented Generation) architectures from scratch, integrating Python, LangChain, and local vector databases (such as ChromaDB) with LLM models to act as network support agents (NetOps).
 
-🛡️ AI Reliability: Structuring strict guardrails, memory/context management, and human-in-the-loop validation for mission-critical systems.
+By bringing my network engineering background to Artificial Intelligence, I prioritize security and resilience. I know how to structure workflows where AI has no room to "hallucinate," defining rigorous guardrails, managing context, and always maintaining human-in-the-loop technical validation as a safety barrier.
 
-My Background:
-My technical foundation is strengthened by the rigorous Harvard Computer Science training (CS50) in Brazil via Fundação Estudar, alongside certifications from Data Science Academy and Microsoft. Coming from a background in managing high-availability B2B networks (BGP, OSPF, MikroTik), I know how crucial system stability is.
+The market needs AIs that truly solve business problems without breaking critical corporate systems. It is precisely this bridge between real infrastructure and generative innovation that I build.
 
-I believe continuous learning is the fuel of innovation. My goal is to develop AI-driven architectures that not only boost operational efficiency but also create a positive, scalable impact on how technology serves people.
+My long-term goal is not limited to a single niche. I want to build an architecture that solves problems on a global scale. My aim is to develop AI solutions adaptable to any challenge, whether automating complex corporate operations or processing massive amounts of data for major scientific or social advancements. I believe that software engineering and AI serve to create tools capable of fixing real-world problems, regardless of the field of activity.
 
-🛠️ Tech Stack:
-Programming & AI: Python, LangChain, HuggingFace, ChromaDB, LLMs (Gemini, OpenAI)
+Stack & Practical Experience:
 
-Automation & Data: RPA (UiPath), SQL, Data Visualization
+Applied AI & Automation: Python, RAG Architecture, LangChain, API Integration with LLMs (Gemini, OpenAI), Process Automation (RPA).
 
-Infrastructure: MikroTik RouterOS, BGP/OSPF, NetOps
+AI Reliability: Guardrail Structuring, Context/Memory Control, Technical Dialogue Systems.
+
+Basic Infrastructure: B2B Networks, MikroTik RouterOS, Dynamic Routing Protocols (BGP/OSPF), Advanced Troubleshooting.
 
 </P>
 <br>
