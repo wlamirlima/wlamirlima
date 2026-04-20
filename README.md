@@ -6,13 +6,32 @@
 
 <h1 align="center">About me:</h1>
 <P>
-Hi, my name is Wlamir, I'm from Ceará , 🇧🇷  .
 
-Brazilian IT professional with a strong passion for technology and innovation. I bring solid experience in process automation (RPA), data science, systems and data analysis, and network operations. I continuously enhance my skills through hands-on projects and training in high-impact areas such as Artificial Intelligence, Machine Learning, and Data Engineering. Focused on creating smart, efficient, and scalable tech solutions .
+Hi there, I'm Wlamir! From Ceará, Brazil 🇧🇷
+  
+I am a Computer Science student (100% ProUni Scholar) and an IT professional specialized in bridging the gap between critical IT Infrastructure (NetOps) and Artificial Intelligence.
 
-I have worked with robotic process automation using UiPath, optimizing operational flows and increasing productivity. I also develop solutions focused on AI, predictive analysis, data visualization and systems integration. My technical repertoire is strengthened by recognized courses such as Harvard's Computer Science training in Brazil (Fundação Estudar), as well as certifications from the Data Science Academy, Udemy, Microsoft and LinkedIn Learning.
+Driven by the challenge of automating complex workflows, I shifted my focus from traditional network management to Applied AI Engineering and MLOps. I don't just consume APIs; I build scalable solutions from the ground up, ensuring AI operates safely in corporate environments without "hallucinating."
 
-I believe that the combination of my practical experience with emerging technologies and my commitment to innovation positions me to make a significant contribution to projects aimed not only at operational efficiency, but also at positively impacting the improvement of people's quality of life on a global scale, continuous learning is the fuel of innovation and collaboration is the key to excellent results.
+What I'm building and working with:
+
+🧠 Applied GenAI: Building RAG (Retrieval-Augmented Generation) architectures using Python, LangChain, and local Vector Databases (ChromaDB).
+
+⚙️ Hyperautomation & NetOps: Integrating LLMs (Gemini, OpenAI) to automate network troubleshooting and building robust RPA workflows using UiPath.
+
+🛡️ AI Reliability: Structuring strict guardrails, memory/context management, and human-in-the-loop validation for mission-critical systems.
+
+My Background:
+My technical foundation is strengthened by the rigorous Harvard Computer Science training (CS50) in Brazil via Fundação Estudar, alongside certifications from Data Science Academy and Microsoft. Coming from a background in managing high-availability B2B networks (BGP, OSPF, MikroTik), I know how crucial system stability is.
+
+I believe continuous learning is the fuel of innovation. My goal is to develop AI-driven architectures that not only boost operational efficiency but also create a positive, scalable impact on how technology serves people.
+
+🛠️ Tech Stack:
+Programming & AI: Python, LangChain, HuggingFace, ChromaDB, LLMs (Gemini, OpenAI)
+
+Automation & Data: RPA (UiPath), SQL, Data Visualization
+
+Infrastructure: MikroTik RouterOS, BGP/OSPF, NetOps
 
 </P>
 <br>
