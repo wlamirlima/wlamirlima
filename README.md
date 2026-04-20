@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f3f3f3&size=35&center=true&vCenter=true&width=1000&lines=+My+Name+Is+Wlamir+Lima+;+From+Ceará,+Brazil!;+Graduating+Bachelor's+Degree+Computer+Science;+Be+Welcome!+:%29;+Olá,+Meu+Nome+é+Wlamir+Lima;+Sou+do+Ceará,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo(a)!+:%29)](https://git.io/typing-svg)
 
 <br>
-+Olá,+Meu+Nome+é+Wlamir+Lima;+Sou+do+Ceará,+Brasil;+Graduando+Bacharelado+Ciência+da+Computação;+Seja+Bem-Vindo(a)!
+
 <h1 align="center">About me:</h1>
 <P>
 
